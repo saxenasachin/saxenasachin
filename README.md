@@ -11,9 +11,9 @@ I am [Sachin Saxena](http://saxenasachin.github.io/), currently working @Doubtnu
 
 ## 👨🏻‍💻 Coding Profiles
 
-[![Scaler](https://img.shields.io/badge/-Scaler-16a2ff?style=flat-square&logo=Scaler&logoColor=white)](https://www.scaler.com/academy/profile/f21895cfb0ee/)
+[![Scaler]![Screenshot 2022-06-18 at 10 55 09 PM](https://user-images.githubusercontent.com/22069181/174449773-ef91c860-b0d3-4b81-b22f-c11d571ec338.png)
+(https://img.shields.io/badge/-Scaler-16a2ff?style=flat-square&logo=Scaler&logoColor=white)](https://www.scaler.com/academy/profile/f21895cfb0ee/)
 
-![Screenshot 2022-06-18 at 10 53 23 PM](https://user-images.githubusercontent.com/22069181/174449714-576cf0cd-a231-4b07-8f75-655e014f94d8.png)
 
 ## ⚡ Technologies
 

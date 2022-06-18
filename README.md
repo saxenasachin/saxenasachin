@@ -1,6 +1,6 @@
 # Hi, I am Sachin! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
 
-I am [Sachin Saxena](http://saxenasachin.github.io/), currently working @Doubtnut as an Android Developer]). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am [Sachin Saxena](http://saxenasachin.github.io/), currently working @Doubtnut as an Android Developer. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sachin.saxena1790@gmail.com)](mailto:sachin.saxena1790@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachin1790/)](https://www.linkedin.com/in/sachin1790/)
@@ -11,7 +11,7 @@ I am [Sachin Saxena](http://saxenasachin.github.io/), currently working @Doubtnu
 
 ## 👨🏻‍💻 Coding Profiles
 
-[![Scaler](https://www.scaler.com/academy/profile/f21895cfb0ee/)](https://www.scaler.com/academy/profile/f21895cfb0ee/)
+[![Scaler](https://www.medianews4u.com/wp-content/uploads/2021/10/Scaler-Academy-acquires-Coding-Minutes-to-strengthen-its-offering-for-beginner-level.jpg/)](https://www.scaler.com/academy/profile/f21895cfb0ee/)
 
 ## ⚡ Technologies
 

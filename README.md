@@ -11,7 +11,7 @@ I am [Sachin Saxena](http://saxenasachin.github.io/), currently working @Doubtnu
 
 ## 👨🏻‍💻 Coding Profiles
 
-[![Scaler](https://www.scaler.com/academy/profile/f21895cfb0ee/)
+[!Scaler](https://www.scaler.com/academy/profile/f21895cfb0ee/)
 
 ## ⚡ Technologies
 

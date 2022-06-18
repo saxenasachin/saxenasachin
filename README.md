@@ -7,14 +7,13 @@ I am [Sachin Saxena](http://saxenasachin.github.io/), currently working @Doubtnu
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/saxenakrsachin)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/saxenakrsachin//)](https://www.instagram.com/saxenakrsachin/)
 
-[![Sachin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saxenasachin&theme=xcode)](https://github.com/saxenasachin)
-
 ## 👨🏻‍💻 Coding Profiles
 
 [![Scaler](https://img.shields.io/badge/-Scaler-16a2ff?style=flat-square&logo=Scaler&logoColor=white)](https://www.scaler.com/academy/profile/f21895cfb0ee/)
 
 ![Screenshot 2022-06-18 at 10 55 09 PM](https://user-images.githubusercontent.com/22069181/174449802-69b8a371-214a-4104-bfeb-960a93e377e0.png)
 
+[![Sachin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saxenasachin&theme=xcode)](https://github.com/saxenasachin)
 
 ## ⚡ Technologies
 

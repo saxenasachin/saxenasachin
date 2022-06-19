@@ -5,7 +5,7 @@ I am [Sachin Saxena](http://saxenasachin.github.io/), currently working as an An
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sachin.saxena1790@gmail.com)](mailto:sachin.saxena1790@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachin1790/)](https://www.linkedin.com/in/sachin1790/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/saxenakrsachin)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/saxenakrsachin//)](https://www.instagram.com/saxenakrsachin/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
 
 ## 👨🏻‍💻 Coding Profiles
 

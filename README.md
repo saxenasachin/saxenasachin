@@ -35,7 +35,7 @@ I am [Sachin Saxena](http://saxenasachin.github.io/), currently working as an An
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=saxenasachin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saxenasachin&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saxenasachin&show_icons=true&locale=en&theme=tokyonight" />
         </td>
     </tr>
 </table>

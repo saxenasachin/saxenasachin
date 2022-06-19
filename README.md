@@ -20,7 +20,7 @@ I am [Sachin Saxena](http://saxenasachin.github.io/), currently working as an An
 ### Language
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Android](https://img.shields.io/badge/-Android-black?logo=Android)
+![Android](https://img.shields.io/badge/-Android-white?logo=Android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-00599C?style=flat-square&logo=kotlin)
 
 ### Tools:

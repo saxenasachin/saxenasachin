@@ -1,4 +1,4 @@
-# Hi, I am Sachin! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
+# Hi, I am Sachin! Great to see you here! <img src="https://user-images.githubusercontent.com/22069181/174463920-4f087381-4a7c-4542-b866-5efbbbde62e7.gif" width="30px" height="30px">
 
 I am [Sachin Saxena](http://saxenasachin.github.io/), currently working as an Android Developer. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 

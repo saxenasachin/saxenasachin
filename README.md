@@ -11,7 +11,7 @@ I am [Sachin Saxena](http://saxenasachin.github.io/), currently working as an An
 
 [![Scaler](https://img.shields.io/badge/Scaler-0056D2?style=for-the-badge&logo=Scala&logoColor=white)](https://www.scaler.com/academy/profile/f21895cfb0ee/)
 
-![Screenshot 2022-06-25 at 12 48 41 PM](https://user-images.githubusercontent.com/22069181/175763105-0add882c-6b09-405d-ae1e-3d7dfd68b8d5.png)
+![Screenshot 2022-06-25 at 12 50 03 PM](https://user-images.githubusercontent.com/22069181/175763141-87c63565-90c8-4015-81d3-d18325febf83.png)
 
 [![Sachin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saxenasachin&theme=xcode)](https://github.com/saxenasachin)
 

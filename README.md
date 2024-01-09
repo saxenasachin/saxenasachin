@@ -13,7 +13,7 @@ I am [Sachin Saxena](http://saxenasachin.github.io/), currently working as an An
 
 ![Screenshot 2022-06-25 at 12 50 03 PM](https://user-images.githubusercontent.com/22069181/175763141-87c63565-90c8-4015-81d3-d18325febf83.png)
 
-[![Sachin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saxenasachin&theme=xcode)](https://github.com/saxenasachin)
+[![Sachin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saxenasachin&theme=xcode)](https://github.com/saxenasachin)
 
 ## ⚡ Technologies
 
